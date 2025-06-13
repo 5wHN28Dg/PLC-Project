@@ -6,7 +6,7 @@ A PLC Project for learning purposes, still in the conceptual and research phases
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Roadmap](#Roadmap)
+- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 
 ## Overview
@@ -14,9 +14,9 @@ This project aims to showcase my PLC programming skills, HMI usability, modular 
 
 ## Tools used
 I will be starting with siemens PLC stack 1st as it is the dominant in the market then maybe in the future I will implement the same project using the rest...
-- TIA Portal: to write, upload, and debug the code
-- PLCSIM Advanced: Simulating siemens simatic S7-1500
-- Plant simulation SW: haven't decided yet on which on to use
+- TIA Portal STEP 7 Professional: to write, upload, and debug the code
+- SIMATIC S7‑PLCSIM Advanced: Simulating siemens simatic S7-1500
+- SIMIT Simulation Platform: for code validation and plant simulation
 
 all of this will be running inside a windows 10 VM using docker as a backend.
 
